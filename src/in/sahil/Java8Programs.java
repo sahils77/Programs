@@ -13,7 +13,7 @@ public class Java8Programs {
 	public static void main(String[] args) {
 		
 				
-				int s=2;
+				
 				
 		//Given a list of integers, find out all the even numbers that exist in the list using Stream functions?
 
